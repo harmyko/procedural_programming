@@ -1,0 +1,11 @@
+Line: 1 Word in line: 3 --- nigga
+Line: 2 Word in line: 1 --- This
+Line: 3 Word in line: 1 --- dictionary
+Line: 3 Word in line: 3 --- hella
+Line: 4 Word in line: 1 --- weird
+Line: 6 Word in line: 3 --- Autumn
+Line: 7 Word in line: 1 --- In
+Line: 8 Word in line: 5 --- flight
+Line: 9 Word in line: 1 --- Crisp
+Line: 9 Word in line: 6 --- yore
+Line: 10 Word in line: 1 --- As
