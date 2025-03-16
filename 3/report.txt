@@ -1,0 +1,128 @@
+// skaicius po vardo ir pavardes nurodo studento kursa
+
+QUERY1
+21
+Betty Norman 2
+Jessie Madsen 1
+Wilhelm Madsen 1
+...
+
+QUERY2
+875
+Jenny King 4
+Jamie Druddle 2
+Angelina Lockwood 1
+...
+
+QUERY3
+807
+Helen King 2
+Jenny King 4
+Jamie Druddle 2
+...
+
+QUERY4
+493
+Helen King 2
+Jamie Druddle 2
+Betty Norman 2
+...
+
+QUERY5
+251
+Helen King 2
+Jenny King 4
+Charlie Norman 2
+...
+
+QUERY6 // matematikos mokytoja moke, jog neigiamas pazymys yra < 0
+999
+Helen King 2
+Jenny King 4
+Jamie Druddle 2
+...
+
+QUERY7
+172
+Jenny King 4
+Jamie Druddle 2
+Angelina Lockwood 1
+...
+
+QUERY8
+80
+Charlie Quarry 4
+Richard Kesting 4
+Karl Hat 1
+...
+
+QUERY9
+255
+Betty Stapleton 2
+Adam Sheen 3
+Jerry Brightman 1
+...
+
+QUERY10
+239
+Jamie Druddle 2
+Betty Norman 2
+Charlie Norman 2
+...
+
+QUERY11
+547
+Charlie Norman 2
+Betty Stapleton 2
+Jamie Sleight 3
+...
+
+QUERY12
+4
+Karl Hat 1
+Helen Wozniak 4
+Arnold Enderman 2
+...
+
+QUERY13
+55
+Sole Stapleton 2
+Charlie Norman 2
+Charlie Quarry 4
+...
+
+QUERY14
+999
+Helen King 2
+Jenny King 4
+Jamie Druddle 2
+...
+
+QUERY15
+43
+Sole Stapleton 2
+Matt King 2
+Kylie Hat 3
+...
+
+QUERY16
+393
+Jenny King 4
+Matt Wozniak 3
+Richard Davison 2
+...
+
+QUERY17
+354
+Jenny King 4
+Richard Davison 2
+Adam Sheen 3
+...
+
+QUERY18
+0
+
+
+
+
+
