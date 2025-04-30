@@ -29,7 +29,7 @@ Read a text from a file, reverse the characters of each word (word order stays),
 ### `lab_4`: Linked List – Top Scorer Remover  
 Create a linked list of participants and scores. Remove the one with the highest score – only if user agrees. Uses modular structure with headers like `linked_list.h`, `input_validation.h`, etc.
 
-Code example for the main logic is [here](lab_work/lab_4/main.c).  
+Code example for the main logic is [here](lab_work/lab_4/main2.c).  
 (It's... a lot.)
 
 🕓 Labs required:
@@ -39,7 +39,7 @@ Code example for the main logic is [here](lab_work/lab_4/main.c).
   - Lab 1 – 10 min  
   - Labs 2–4 – 15 min each  
 
-👉 *Links to videos go here (I don't recommend watching them; I didn't really care about making these a fun watch):*  
+👉 *Links to presentation videos (I don't recommend watching them; I didn't really care about making these a fun watch):*  
 - Lab 1: https://youtu.be/MeKyDuY_IdE
 - Lab 2: https://youtu.be/SPgwrL4OJZo  
 - Lab 3: https://youtu.be/rQmzIoc_xkY
